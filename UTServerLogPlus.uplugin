@@ -1,0 +1,23 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "UTServerLogPlus",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Chatouille",
+	"CreatedByURL" : "",
+	"EngineVersion" : "4.15.0",
+	"Description" : "UTServerLogPlus",
+	"Category" : "UnrealTournament.Mutator",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "UTServerLogPlus",
+			"Type" : "Runtime",
+			"WhitelistPlatforms" : [ "Win32", "Win64", "Linux" ]
+		}
+	]
+}

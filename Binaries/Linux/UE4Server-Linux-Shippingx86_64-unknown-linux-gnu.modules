@@ -1,0 +1,8 @@
+{
+	"Changelist" : 3525109,
+	"BuildId" : "409fe07a-3afb-4783-aa7d-6d989845a9f8",
+	"Modules" : 
+	{
+		"UTServerLogPlus" : "libUE4Server-UTServerLogPlus-Linux-Shipping.so"
+	}
+}
