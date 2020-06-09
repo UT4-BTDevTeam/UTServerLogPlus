@@ -1,4 +1,5 @@
 # UTServerLogPlus
+Logs additional information for server admins, such as players join and leave time, with their ID and IP, as well as ingame chat.
 
 ## Installing
 Download repository ZIP, extract, and paste the entire folder into :
